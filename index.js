@@ -12,7 +12,6 @@ const removeLast  =      ["Milo", "Otis", "Garfield"];
 const removeFirst =      ["Milo", "Otis", "Garfield"];
 
 
-
 // 1. Append the pet "Odie" to the end of `append`.
 append.push("Odie");
 
@@ -21,5 +20,6 @@ prepend.unshift("Odie");
 
 // 3. Remove the _last_ pet from `removeLast`.
 removeLast.pop();
+
 // 4. Remove the _first_ pet from `removeFirst`.
 removeFirst.shift();
